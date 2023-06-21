@@ -26,7 +26,3 @@ Link Github (server):
 https://github.com/GilangRizkyRamadhan119140081/Tubes-PWL-ServerSide
 
 
-Sumber Kode : <br>
--https://www.youtube.com/watch?v=A7G-kAyfxqY&t=374s <br>
--https://www.youtube.com/watch?v=zPcvAwp71uA&t=108s <br>
--https://www.youtube.com/watch?v=960mgtEarfs&t=398s
